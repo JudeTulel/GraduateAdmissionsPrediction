@@ -1,2 +1,2 @@
-## Using ArtificialNeuralNetworks to predict Graduate Admissions
+## Using Linear regression to predict Graduate Admissions
 
